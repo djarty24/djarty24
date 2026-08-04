@@ -2,7 +2,7 @@
 ![GitHub Profile Boids Banner](/github-banner.gif)
 *You can create your own Boids GitHub profile banner here: [https://boids-banner.vercel.app/](https://boids-banner.vercel.app/)*
 -->
-![banner](/stars.gif)
+![banner](/banner.gif)
 
 ### Hey there, I'm Revati!
 
